@@ -26,6 +26,7 @@
 ### Tools:
 ![Visual Studio Code](https://a11ybadges.com/badge?logo=visualstudiocode)&nbsp;
 ![Eclipse IDE](https://a11ybadges.com/badge?logo=eclipseide)&nbsp;
+![IntelliJ IDEA](https://a11ybadges.com/badge?logo=intellijidea)&nbsp;  
 ![Apache NetBeans IDE](https://a11ybadges.com/badge?logo=apachenetbeanside)&nbsp;
 ![GitHub](https://a11ybadges.com/badge?logo=github)&nbsp;
 ![Windows](https://a11ybadges.com/badge?logo=windows)&nbsp;
