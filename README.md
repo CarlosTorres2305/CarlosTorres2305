@@ -48,4 +48,6 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{CarlosTorres2305}/count.svg" /></p> 
 <br></div>
 
+![snake gif](https://github.com/CarlosTorres2305/CarlosTorres2305/blob/output/github-contribution-grid-snake.svg)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
