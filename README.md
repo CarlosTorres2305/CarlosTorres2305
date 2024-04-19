@@ -7,7 +7,9 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosTorres2305&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-<!--![Contribution](https://activity-graph.herokuapp.com/graph?username=CarlosTorres2305&theme=gotham&hide_border=true&area=true)-->
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CarlosTorres2305&bg_color=0b0a0a&color=00bfbf&line=00bfbf&point=00bfbf&area=true&hide_border=true)
+
+<!--![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CarlosTorres2305&bg_color=0b0a0a&color=856083&line=7d406c&point=a65959&area=true&hide_border=true)-->
 
 
 <p align="center">
